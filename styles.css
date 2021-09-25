@@ -171,3 +171,7 @@ nav span {
  /*.hours, .dot-hour{
  display: none;
 }*/
+
+:fullscreen {
+background-color: black;
+}
